@@ -1,6 +1,5 @@
 - Hi, I’m Abdul wahab. 
-- I’m currently learning Solidity Smart Contracts.
-- I'm Currently Making Dapps using Ethereum Blockchain.
+- I’m React js Developer.
 - Contact Me via Gmail "abdulwahabofficial705@gmail.com"
 - Linkedin: https://www.linkedin.com/in/wahab706/
 - Github Username "@wahab706".
